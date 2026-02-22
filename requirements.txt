@@ -1,4 +1,8 @@
 pandas
 numpy
 seaborn
--e .    # automatically trigger 
+matplotlib
+scikit-learn
+catboost
+xgboost
+#-e .    # automatically trigger 
