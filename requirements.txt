@@ -1,10 +1,17 @@
-pandas
+# pandas
+# numpy
+# # seaborn
+# # matplotlib
+# scikit-learn
+# # catboost
+# # xgboost
+# dill
+# Flask
+# #-e .    # automatically trigger 
+
+flask
+gunicorn
 numpy
-seaborn
-matplotlib
+pandas
 scikit-learn
-catboost
-xgboost
 dill
-Flask
-#-e .    # automatically trigger 
