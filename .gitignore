@@ -145,6 +145,8 @@ ENV/
 env.bak/
 venv.bak/
 catboost_info/
+student_performance/logs/*
+!student_performance/logs/.gitkeep
 
 
 
