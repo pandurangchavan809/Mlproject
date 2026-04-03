@@ -1,4 +1,4 @@
-# pandas
+ # pandas
 # numpy
 # # seaborn
 # # matplotlib
@@ -9,10 +9,14 @@
 # Flask
 # #-e .    # automatically trigger 
 
-
+tensorflow==2.15.0
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
 flask
 gunicorn
-numpy
-pandas
-scikit-learn
 dill
