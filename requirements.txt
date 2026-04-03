@@ -1,14 +1,3 @@
- # pandas
-# numpy
-# # seaborn
-# # matplotlib
-# scikit-learn
-# # catboost
-# # xgboost
-# dill
-# Flask
-# #-e .    # automatically trigger 
-
 tensorflow==2.15.0
 pandas 
 numpy 
@@ -18,5 +7,4 @@ matplotlib
 streamlit
 scikeras
 flask
-gunicorn
-dill
+nltk
